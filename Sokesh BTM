@@ -1,0 +1,6 @@
+It's a financial account that takes records of inflow 
+It records transactions made by a certain customer.
+It pays customer on a weekly basis.
+It displays customers names an IR number on a dashboard.
+Each account must be made of a password and a pin code.
+It should be like that of qnet.
